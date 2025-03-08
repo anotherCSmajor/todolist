@@ -25,23 +25,24 @@
 }
 .strikethrough{
     text-decoration: line-through rgb(15, 15, 15);
-    background-color: rgb(172, 226, 158);
+    background-color: rgb(172, 175, 171);
 }
 #removebtn{
     border-radius: 40%;
-    background-color: chocolate;
+    background-color: rgb(194, 99, 218);
     
 }
 #removebtn:hover{
-    background-color: red;
+    background-color: rgb(194, 99, 218);
 }
 input{
-    border-radius: 1rem;
+    border-radius: 0.01rem;
     background-color: rgb(88, 183, 221);
     border-color: burlywood;
 }
-input.checkbox{
+/* idk what below one does so keeping it until i figure out something */
+/* input.checkbox{
     border-radius: 1rem;
-    background-color: rgb(88, 183, 221);
-    border-color: burlywood;
-}
+    background-color: rgb(5, 5, 5);
+    border-color: rgb(19, 18, 17);
+} */
